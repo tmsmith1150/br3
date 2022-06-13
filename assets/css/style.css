@@ -72,3 +72,6 @@
   .flight-color {
     color: var(--flight-color);
   }
+  html {
+    scroll-behavior: smooth;
+  }
