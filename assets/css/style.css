@@ -187,4 +187,14 @@ footer a {
       font-size: 36px;
       font-family: "Roboto Medium", "sans-serif";
   }
+<<<<<<< HEAD
 }
+=======
+  
+  .flight-color {
+    color: var(--flight-color);
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+>>>>>>> feature/display-rocket
