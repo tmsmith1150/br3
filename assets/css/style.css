@@ -188,6 +188,10 @@ footer a {
       font-family: "Roboto Medium", "sans-serif";
   }
 
+
+
+
+r
   
   .flight-color {
     color: var(--flight-color);
@@ -195,6 +199,7 @@ footer a {
   html {
     scroll-behavior: smooth;
   }
+
 
 
 
